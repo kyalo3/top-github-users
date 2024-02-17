@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" alt="Albania">
 </a>
 
-The `public contributions` and `private contributions` by users in Albania on `2024/2/17 1:45 AM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
+The `public contributions` and `private contributions` by users in Albania on `2024/2/17 10:14 AM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
@@ -578,7 +578,7 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Loopby </td>
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
-		<td>375</td>
+		<td>422</td>
 		<td>1264</td>
 	</tr>
 	<tr>
@@ -761,7 +761,7 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>0</td>
-		<td>1029</td>
+		<td>1031</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -929,7 +929,7 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>1</td>
-		<td>824</td>
+		<td>825</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -1321,7 +1321,7 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>6</td>
-		<td>557</td>
+		<td>558</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -3188,6 +3188,20 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>221</td>
 		<td>
+			<a href="https://github.com/redianmarku">
+				<img src="https://avatars.githubusercontent.com/u/42848358?s=72&u=a25a2980b27ea6ff366d46a57118d63571c24fff&v=4" width="24" alt="Avatar of redianmarku"> redianmarku
+			</a><br/>
+			TopNotch Programmer
+		</td>
+		<td>Topnotch Programmer </td>
+		<td><a href="https://twitter.com/redian_marku">redian_marku</a></td>
+		<td>Albania</td>
+		<td>120</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
 			<a href="https://github.com/skerdicaushaj">
 				<img src="https://avatars.githubusercontent.com/u/85029576?s=72&u=a3b863d3ce3851d96f16bab030224cf8234e03c0&v=4" width="24" alt="Avatar of skerdicaushaj"> skerdicaushaj
 			</a><br/>
@@ -3200,21 +3214,21 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>223</td>
 		<td>
-			<a href="https://github.com/redianmarku">
-				<img src="https://avatars.githubusercontent.com/u/42848358?s=72&u=a25a2980b27ea6ff366d46a57118d63571c24fff&v=4" width="24" alt="Avatar of redianmarku"> redianmarku
+			<a href="https://github.com/tabakuj">
+				<img src="https://avatars.githubusercontent.com/u/29838180?s=72&u=76e8954ec9aa1caab3a4838d913d400fc1424cc8&v=4" width="24" alt="Avatar of tabakuj"> tabakuj
 			</a><br/>
-			TopNotch Programmer
+			Julian
 		</td>
-		<td>Topnotch Programmer </td>
-		<td><a href="https://twitter.com/redian_marku">redian_marku</a></td>
-		<td>Albania</td>
+		<td>Lavanet </td>
+		<td>No Twitter Username</td>
+		<td>Tirane,Albania</td>
 		<td>119</td>
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/axhem">
 				<img src="https://avatars.githubusercontent.com/u/30410462?s=72&u=af436116c2e65cef4751dfb32964ada44c44efc6&v=4" width="24" alt="Avatar of axhem"> axhem
@@ -3226,20 +3240,6 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Tirana</td>
 		<td>12</td>
 		<td>118</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/tabakuj">
-				<img src="https://avatars.githubusercontent.com/u/29838180?s=72&u=76e8954ec9aa1caab3a4838d913d400fc1424cc8&v=4" width="24" alt="Avatar of tabakuj"> tabakuj
-			</a><br/>
-			Julian
-		</td>
-		<td>Lavanet </td>
-		<td>No Twitter Username</td>
-		<td>Tirane,Albania</td>
-		<td>117</td>
-		<td>117</td>
 	</tr>
 	<tr>
 		<td>225</td>
@@ -3552,6 +3552,20 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>247</td>
 		<td>
+			<a href="https://github.com/kleo-dev">
+				<img src="https://avatars.githubusercontent.com/u/103524696?s=72&u=8e7b804b0ac5018ba08b8788b58beacc6b916e20&v=4" width="24" alt="Avatar of kleo-dev"> kleo-dev
+			</a><br/>
+			Leo dev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Albania</td>
+		<td>90</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
 			<a href="https://github.com/endrilickollari">
 				<img src="https://avatars.githubusercontent.com/u/32954585?s=72&u=34271bad6bae9e9ef5f39f87738ba8b005af686b&v=4" width="24" alt="Avatar of endrilickollari"> endrilickollari
 			</a><br/>
@@ -3564,7 +3578,7 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/sly503">
 				<img src="https://avatars.githubusercontent.com/u/67649108?s=72&v=4" width="24" alt="Avatar of sly503"> sly503
@@ -3575,20 +3589,6 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana</td>
 		<td>1</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/kleo-dev">
-				<img src="https://avatars.githubusercontent.com/u/103524696?s=72&u=8e7b804b0ac5018ba08b8788b58beacc6b916e20&v=4" width="24" alt="Avatar of kleo-dev"> kleo-dev
-			</a><br/>
-			Leo dev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Albania</td>
-		<td>88</td>
 		<td>88</td>
 	</tr>
 	<tr>
@@ -3700,8 +3700,8 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Kondasoft </td>
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
-		<td>80</td>
-		<td>80</td>
+		<td>81</td>
+		<td>81</td>
 	</tr>
 	<tr>
 		<td>258</td>
