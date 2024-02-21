@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" alt="Algeria">
 </a>
 
-The `public contributions` by users in Algeria on `2024/2/20 8:16 PM UTC`. This list contains users from `Algeria` and cities `Algiers` `Oran` `Constantine` `Batna` `Djelfa` `Sétif` `Annaba` `Sidibelabbès` `Biskra` `Tiaret`.
+The `public contributions` by users in Algeria on `2024/2/21 5:14 AM UTC`. This list contains users from `Algeria` and cities `Algiers` `Oran` `Constantine` `Batna` `Djelfa` `Sétif` `Annaba` `Sidibelabbès` `Biskra` `Tiaret`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
@@ -115,7 +115,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>@yasserbdj96 </td>
 		<td><a href="https://twitter.com/yasserbdj96">yasserbdj96</a></td>
 		<td>Jijel, Algeria</td>
-		<td>52987</td>
+		<td>52990</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Setif, Algeria</td>
-		<td>4513</td>
+		<td>4514</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td> @holbertonschool| @alx_africa </td>
 		<td><a href="https://twitter.com/salihabri">salihabri</a></td>
 		<td>Algeria</td>
-		<td>2581</td>
+		<td>2587</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>Alx Swe </td>
 		<td><a href="https://twitter.com/w1laaeddine">w1laaeddine</a></td>
 		<td>Algeria, Batna</td>
-		<td>2404</td>
+		<td>2405</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -336,7 +336,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>@garagescript </td>
 		<td>No Twitter Username</td>
 		<td>Algeria, Sétif</td>
-		<td>858</td>
+		<td>864</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -362,7 +362,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
-		<td>775</td>
+		<td>776</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -479,7 +479,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>Estin </td>
 		<td>No Twitter Username</td>
 		<td>Bejaia, Algeria</td>
-		<td>675</td>
+		<td>674</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -531,7 +531,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/issam__seghir">issam__seghir</a></td>
 		<td>Algeria</td>
-		<td>574</td>
+		<td>575</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -557,7 +557,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Oran,Algeria</td>
-		<td>565</td>
+		<td>566</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -960,7 +960,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tixxdz">tixxdz</a></td>
 		<td>Algeria / Germany</td>
-		<td>360</td>
+		<td>361</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1069,19 +1069,6 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 	<tr>
 		<td>75</td>
 		<td>
-			<a href="https://github.com/Younes-Charfaoui">
-				<img src="https://avatars.githubusercontent.com/u/31278093?s=72&u=6f289926724bae22ded82204754eb07cf4cb7b6d&v=4" width="24" alt="Avatar of Younes-Charfaoui"> Younes-Charfaoui
-			</a><br/>
-			Younes Charfaoui
-		</td>
-		<td>@dscuik  </td>
-		<td><a href="https://twitter.com/CharfaouiYounes">CharfaouiYounes</a></td>
-		<td>Tiaret, Algeria</td>
-		<td>335</td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>
 			<a href="https://github.com/mrunix00">
 				<img src="https://avatars.githubusercontent.com/u/99476714?s=72&u=d4329ed1a9e2d765c04dc319f31f253913dbedf3&v=4" width="24" alt="Avatar of mrunix00"> mrunix00
 			</a><br/>
@@ -1090,6 +1077,19 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mrunix0">mrunix0</a></td>
 		<td>Algeria</td>
+		<td>337</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/Younes-Charfaoui">
+				<img src="https://avatars.githubusercontent.com/u/31278093?s=72&u=6f289926724bae22ded82204754eb07cf4cb7b6d&v=4" width="24" alt="Avatar of Younes-Charfaoui"> Younes-Charfaoui
+			</a><br/>
+			Younes Charfaoui
+		</td>
+		<td>@dscuik  </td>
+		<td><a href="https://twitter.com/CharfaouiYounes">CharfaouiYounes</a></td>
+		<td>Tiaret, Algeria</td>
 		<td>335</td>
 	</tr>
 	<tr>
@@ -1753,7 +1753,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>Full Stack  Developer<br/></td>
 		<td><a href="https://twitter.com/Terbech_Mostefa">Terbech_Mostefa</a></td>
 		<td>Ghazaouet - Tlemcen -Algeria</td>
-		<td>208</td>
+		<td>209</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -1784,19 +1784,6 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 	<tr>
 		<td>130</td>
 		<td>
-			<a href="https://github.com/Hamziss">
-				<img src="https://avatars.githubusercontent.com/u/96361868?s=72&u=cc81914aed5fd00b502f4ac583e451d79c42ff86&v=4" width="24" alt="Avatar of Hamziss"> Hamziss
-			</a><br/>
-			Hamza
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Algeria, Algiers</td>
-		<td>203</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
 			<a href="https://github.com/elkebirmed">
 				<img src="https://avatars.githubusercontent.com/u/3056412?s=72&v=4" width="24" alt="Avatar of elkebirmed"> elkebirmed
 			</a><br/>
@@ -1808,7 +1795,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>202</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/Amine-bc">
 				<img src="https://avatars.githubusercontent.com/u/96586941?s=72&u=6e300cdcf0465f6130c4c0ce84f6f130c87edbff&v=4" width="24" alt="Avatar of Amine-bc"> Amine-bc
@@ -1821,7 +1808,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/zakaryaalgeria">
 				<img src="https://avatars.githubusercontent.com/u/121122395?s=72&u=024c3a2ee601c90564b8ce673a419ff8963650fc&v=4" width="24" alt="Avatar of zakaryaalgeria"> zakaryaalgeria
@@ -1834,7 +1821,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/RaidOuahioune">
 				<img src="https://avatars.githubusercontent.com/u/86990434?s=72&u=1a9d35b7ebaa81699374e5c5beddd07c4868f46b&v=4" width="24" alt="Avatar of RaidOuahioune"> RaidOuahioune
@@ -1844,6 +1831,19 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>Ensia </td>
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
+		<td>201</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
+			<a href="https://github.com/Hamziss">
+				<img src="https://avatars.githubusercontent.com/u/96361868?s=72&u=cc81914aed5fd00b502f4ac583e451d79c42ff86&v=4" width="24" alt="Avatar of Hamziss"> Hamziss
+			</a><br/>
+			Hamza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Algeria, Algiers</td>
 		<td>201</td>
 	</tr>
 	<tr>
@@ -1888,6 +1888,19 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 	<tr>
 		<td>138</td>
 		<td>
+			<a href="https://github.com/whoamif">
+				<img src="https://avatars.githubusercontent.com/u/104981945?s=72&u=648c56b69ee41f68ee717965bb114a83b530f9a3&v=4" width="24" alt="Avatar of whoamif"> whoamif
+			</a><br/>
+			Adjissi Fatima Amina
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/FatimaaminaA">FatimaaminaA</a></td>
+		<td>Algiers  , ALGERIA</td>
+		<td>190</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
 			<a href="https://github.com/IslemMedjahdi">
 				<img src="https://avatars.githubusercontent.com/u/88147785?s=72&u=c24967afb4322f00a21f7c9e7360ab645f123f0f&v=4" width="24" alt="Avatar of IslemMedjahdi"> IslemMedjahdi
 			</a><br/>
@@ -1899,7 +1912,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>189</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/fathiabdelmalek">
 				<img src="https://avatars.githubusercontent.com/u/62630021?s=72&u=a5f784d5ca10f68b19550267037e25640d2cb0e8&v=4" width="24" alt="Avatar of fathiabdelmalek"> fathiabdelmalek
@@ -1912,7 +1925,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>189</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/rhaym-tech">
 				<img src="https://avatars.githubusercontent.com/u/43763935?s=72&v=4" width="24" alt="Avatar of rhaym-tech"> rhaym-tech
@@ -1925,7 +1938,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>188</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/rehhouari">
 				<img src="https://avatars.githubusercontent.com/u/78239768?s=72&u=2c9e9576ce822fe6f72e3b428ec0f71ca331da03&v=4" width="24" alt="Avatar of rehhouari"> rehhouari
@@ -1938,7 +1951,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/TaqiyeddineAbderrahim">
 				<img src="https://avatars.githubusercontent.com/u/140647373?s=72&u=03ce52cb03cdb396d1f7c23c0a2f8902c251b4d3&v=4" width="24" alt="Avatar of TaqiyeddineAbderrahim"> TaqiyeddineAbderrahim
@@ -1951,7 +1964,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/PLMohamed">
 				<img src="https://avatars.githubusercontent.com/u/141277277?s=72&u=d6077e0f7f5abdcdec8be0313747f9e64ea7379a&v=4" width="24" alt="Avatar of PLMohamed"> PLMohamed
@@ -1964,7 +1977,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/nedjwab">
 				<img src="https://avatars.githubusercontent.com/u/62156607?s=72&v=4" width="24" alt="Avatar of nedjwab"> nedjwab
@@ -1977,7 +1990,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/MABDesigns">
 				<img src="https://avatars.githubusercontent.com/u/49349658?s=72&u=e0edb12932d6a6705b2d43103794a667965e3fbe&v=4" width="24" alt="Avatar of MABDesigns"> MABDesigns
@@ -1990,7 +2003,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/RAHAMNIabdelkaderseifelislem">
 				<img src="https://avatars.githubusercontent.com/u/77025510?s=72&u=3205b5b60194e9ffc772c19dbd754046a02725bc&v=4" width="24" alt="Avatar of RAHAMNIabdelkaderseifelislem"> RAHAMNIabdelkaderseifelislem
@@ -2003,7 +2016,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>184</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/AnisDhia">
 				<img src="https://avatars.githubusercontent.com/u/50758880?s=72&u=5001fbecedc6592211bdd1dc9ba53406945ea595&v=4" width="24" alt="Avatar of AnisDhia"> AnisDhia
@@ -2016,7 +2029,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>184</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/abdelhalimkhouas">
 				<img src="https://avatars.githubusercontent.com/u/42040066?s=72&u=ab2f6d9cab33c462270a7f3a7f3222bbb4bc669c&v=4" width="24" alt="Avatar of abdelhalimkhouas"> abdelhalimkhouas
@@ -2029,7 +2042,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>184</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/SamahFarez">
 				<img src="https://avatars.githubusercontent.com/u/97588511?s=72&u=50a248499a7a8ed7bc278442170ae89d427e0f13&v=4" width="24" alt="Avatar of SamahFarez"> SamahFarez
@@ -2042,7 +2055,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/ghaliaInes66">
 				<img src="https://avatars.githubusercontent.com/u/127089631?s=72&u=31e3f61853bc53c12814a0c80a86ed52025f39bf&v=4" width="24" alt="Avatar of ghaliaInes66"> ghaliaInes66
@@ -2055,7 +2068,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/OmarHeriche">
 				<img src="https://avatars.githubusercontent.com/u/143044680?s=72&u=b8eada39db4a1c263babddeca070c2a01e7d2ec3&v=4" width="24" alt="Avatar of OmarHeriche"> OmarHeriche
@@ -2068,7 +2081,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/HachemiIbrahim">
 				<img src="https://avatars.githubusercontent.com/u/123593839?s=72&u=2dd46d8aae3f2efb4f123daee6a6aa80b46f666c&v=4" width="24" alt="Avatar of HachemiIbrahim"> HachemiIbrahim
@@ -2081,7 +2094,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/souhaib-benbouzid">
 				<img src="https://avatars.githubusercontent.com/u/54677068?s=72&u=94a3990a32ab89114f5b13daddb8bc4ea47e86bf&v=4" width="24" alt="Avatar of souhaib-benbouzid"> souhaib-benbouzid
@@ -2094,20 +2107,20 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
-			<a href="https://github.com/whoamif">
-				<img src="https://avatars.githubusercontent.com/u/104981945?s=72&u=648c56b69ee41f68ee717965bb114a83b530f9a3&v=4" width="24" alt="Avatar of whoamif"> whoamif
+			<a href="https://github.com/antaz">
+				<img src="https://avatars.githubusercontent.com/u/40205709?s=72&u=871465a4b592127a51150d9cbadd14bfe9f1e607&v=4" width="24" alt="Avatar of antaz"> antaz
 			</a><br/>
-			Adjissi Fatima Amina
+			Antar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/FatimaaminaA">FatimaaminaA</a></td>
-		<td>Algiers  , ALGERIA</td>
-		<td>178</td>
+		<td>No Twitter Username</td>
+		<td>Algeria</td>
+		<td>180</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/YoucefAllaoua">
 				<img src="https://avatars.githubusercontent.com/u/102872980?s=72&u=a01d3dfdc4df89a4f8ea47045f44225d862d4723&v=4" width="24" alt="Avatar of YoucefAllaoua"> YoucefAllaoua
@@ -2120,7 +2133,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/pharouqy">
 				<img src="https://avatars.githubusercontent.com/u/40803321?s=72&u=120ddcd3a8c58f3dc98cc2ffcfcdb6e9842873fa&v=4" width="24" alt="Avatar of pharouqy"> pharouqy
@@ -2133,7 +2146,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/ousszizou">
 				<img src="https://avatars.githubusercontent.com/u/26632567?s=72&u=237ccf415d1bcb9f25a45e6fd6d60720d0a3384b&v=4" width="24" alt="Avatar of ousszizou"> ousszizou
@@ -2144,19 +2157,6 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td><a href="https://twitter.com/Djaidri_oussama">Djaidri_oussama</a></td>
 		<td>Algeria</td>
 		<td>176</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/antaz">
-				<img src="https://avatars.githubusercontent.com/u/40205709?s=72&u=871465a4b592127a51150d9cbadd14bfe9f1e607&v=4" width="24" alt="Avatar of antaz"> antaz
-			</a><br/>
-			Antar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Algeria</td>
-		<td>175</td>
 	</tr>
 	<tr>
 		<td>159</td>
@@ -2416,10 +2416,23 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>Estin </td>
 		<td>No Twitter Username</td>
 		<td>Algeria , Skikda | Bejaia</td>
-		<td>150</td>
+		<td>151</td>
 	</tr>
 	<tr>
 		<td>179</td>
+		<td>
+			<a href="https://github.com/7afde">
+				<img src="https://avatars.githubusercontent.com/u/124920538?s=72&u=5ca50d3b64bb8044b7907758a8a4fa2e9feebbc8&v=4" width="24" alt="Avatar of 7afde"> 7afde
+			</a><br/>
+			Zouyed Hafed
+		</td>
+		<td>@gdgconstantine </td>
+		<td>No Twitter Username</td>
+		<td>Algeria , Constantine</td>
+		<td>150</td>
+	</tr>
+	<tr>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/aymendn">
 				<img src="https://avatars.githubusercontent.com/u/64363186?s=72&u=9602c4e50f090d6a57e34ffe5dd91d848d2c2914&v=4" width="24" alt="Avatar of aymendn"> aymendn
@@ -2432,7 +2445,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/Asma-Abed">
 				<img src="https://avatars.githubusercontent.com/u/104168868?s=72&v=4" width="24" alt="Avatar of Asma-Abed"> Asma-Abed
@@ -2443,19 +2456,6 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
 		<td>148</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/7afde">
-				<img src="https://avatars.githubusercontent.com/u/124920538?s=72&u=5ca50d3b64bb8044b7907758a8a4fa2e9feebbc8&v=4" width="24" alt="Avatar of 7afde"> 7afde
-			</a><br/>
-			Zouyed Hafed
-		</td>
-		<td>@gdgconstantine </td>
-		<td>No Twitter Username</td>
-		<td>Algeria , Constantine</td>
-		<td>147</td>
 	</tr>
 	<tr>
 		<td>182</td>
@@ -2533,7 +2533,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>Vulnvision </td>
 		<td><a href="https://twitter.com/a_aminetouahria">a_aminetouahria</a></td>
 		<td>setif Algeria</td>
-		<td>140</td>
+		<td>141</td>
 	</tr>
 	<tr>
 		<td>188</td>
@@ -2629,6 +2629,19 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 	<tr>
 		<td>195</td>
 		<td>
+			<a href="https://github.com/trisDeveloper">
+				<img src="https://avatars.githubusercontent.com/u/97057835?s=72&u=f9171c627b397123667ec9832a401d882a3c6a72&v=4" width="24" alt="Avatar of trisDeveloper"> trisDeveloper
+			</a><br/>
+			Tris Dev
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Tris_developer">Tris_developer</a></td>
+		<td>Algeria</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
 			<a href="https://github.com/hichem-bouzourine">
 				<img src="https://avatars.githubusercontent.com/u/78175363?s=72&u=00ae7f78057bc1992e5de925f4b3b68107a10cc9&v=4" width="24" alt="Avatar of hichem-bouzourine"> hichem-bouzourine
 			</a><br/>
@@ -2640,20 +2653,20 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
 		<td>
-			<a href="https://github.com/trisDeveloper">
-				<img src="https://avatars.githubusercontent.com/u/97057835?s=72&u=f9171c627b397123667ec9832a401d882a3c6a72&v=4" width="24" alt="Avatar of trisDeveloper"> trisDeveloper
+			<a href="https://github.com/MohamedMouloudj">
+				<img src="https://avatars.githubusercontent.com/u/109553018?s=72&u=8754ecc9357fe136b39a5dbaaee9ad733c7ba133&v=4" width="24" alt="Avatar of MohamedMouloudj"> MohamedMouloudj
 			</a><br/>
-			Tris Dev
+			Mohamed Mouloudj
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Tris_developer">Tris_developer</a></td>
-		<td>Algeria</td>
-		<td>126</td>
+		<td>No Twitter Username</td>
+		<td>Algeria, Algiers</td>
+		<td>125</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/selma-belhadj">
 				<img src="https://avatars.githubusercontent.com/u/17196048?s=72&u=0c11e791463c84cf400d2dc323c04d3ca59e9f2e&v=4" width="24" alt="Avatar of selma-belhadj"> selma-belhadj
@@ -2666,7 +2679,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/CRY-D">
 				<img src="https://avatars.githubusercontent.com/u/16564491?s=72&u=e261029363b34d51dd067fc9f936809a0c6aad9e&v=4" width="24" alt="Avatar of CRY-D"> CRY-D
@@ -2679,7 +2692,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/OussamaAbderraoufAttia">
 				<img src="https://avatars.githubusercontent.com/u/92870205?s=72&u=eef5a003bccaab07e12b939acef1ac6b6451e34b&v=4" width="24" alt="Avatar of OussamaAbderraoufAttia"> OussamaAbderraoufAttia
@@ -2692,7 +2705,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/boualem06">
 				<img src="https://avatars.githubusercontent.com/u/78014515?s=72&v=4" width="24" alt="Avatar of boualem06"> boualem06
@@ -2705,7 +2718,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/abdoutony">
 				<img src="https://avatars.githubusercontent.com/u/46940200?s=72&u=b6534df41b154382adb09728e4f72772d469eb0c&v=4" width="24" alt="Avatar of abdoutony"> abdoutony
@@ -2718,7 +2731,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/rye2x">
 				<img src="https://avatars.githubusercontent.com/u/115490651?s=72&u=c8f1f2b303e643cb5ef08971bf8a8c47d54ccfcd&v=4" width="24" alt="Avatar of rye2x"> rye2x
@@ -2731,7 +2744,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/mohamadlounnas">
 				<img src="https://avatars.githubusercontent.com/u/22839194?s=72&u=d801702e0b4212b0107fab8efac342cd9be93d5c&v=4" width="24" alt="Avatar of mohamadlounnas"> mohamadlounnas
@@ -2741,19 +2754,6 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>Physia.dev </td>
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/MohamedMouloudj">
-				<img src="https://avatars.githubusercontent.com/u/109553018?s=72&u=8754ecc9357fe136b39a5dbaaee9ad733c7ba133&v=4" width="24" alt="Avatar of MohamedMouloudj"> MohamedMouloudj
-			</a><br/>
-			Mohamed Mouloudj
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Algeria, Algiers</td>
 		<td>122</td>
 	</tr>
 	<tr>
@@ -3677,7 +3677,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>Estin </td>
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
-		<td>74</td>
+		<td>75</td>
 	</tr>
 	<tr>
 		<td>276</td>
@@ -4046,6 +4046,19 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 	<tr>
 		<td>304</td>
 		<td>
+			<a href="https://github.com/AM-77">
+				<img src="https://avatars.githubusercontent.com/u/18232579?s=72&u=c7304d94240bfb3612d5aeb13d8b317ca757f724&v=4" width="24" alt="Avatar of AM-77"> AM-77
+			</a><br/>
+			Mohamed Amine
+		</td>
+		<td>@am77-dev  </td>
+		<td>No Twitter Username</td>
+		<td>Algiers</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
 			<a href="https://github.com/ferrorra">
 				<img src="https://avatars.githubusercontent.com/u/67020121?s=72&v=4" width="24" alt="Avatar of ferrorra"> ferrorra
 			</a><br/>
@@ -4057,7 +4070,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/thbob2">
 				<img src="https://avatars.githubusercontent.com/u/33073278?s=72&u=2f1b993aefae0e6f36d83744556a23edf490f774&v=4" width="24" alt="Avatar of thbob2"> thbob2
@@ -4068,19 +4081,6 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td><a href="https://twitter.com/chouaibBoe">chouaibBoe</a></td>
 		<td>Algiers </td>
 		<td>62</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
-			<a href="https://github.com/AM-77">
-				<img src="https://avatars.githubusercontent.com/u/18232579?s=72&u=c7304d94240bfb3612d5aeb13d8b317ca757f724&v=4" width="24" alt="Avatar of AM-77"> AM-77
-			</a><br/>
-			Mohamed Amine
-		</td>
-		<td>@am77-dev  </td>
-		<td>No Twitter Username</td>
-		<td>Algiers</td>
-		<td>61</td>
 	</tr>
 	<tr>
 		<td>307</td>
@@ -5697,6 +5697,19 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 	<tr>
 		<td>431</td>
 		<td>
+			<a href="https://github.com/Abdelaziz18003">
+				<img src="https://avatars.githubusercontent.com/u/11301627?s=72&u=92a522bfeb3328cfd30566eb546fc63c9080e2b6&v=4" width="24" alt="Avatar of Abdelaziz18003"> Abdelaziz18003
+			</a><br/>
+			Abdelaziz Mokhnache
+		</td>
+		<td>Pawgo </td>
+		<td><a href="https://twitter.com/abdelaziz18003">abdelaziz18003</a></td>
+		<td>Jijel, Algeria</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
 			<a href="https://github.com/bilalbentoumi">
 				<img src="https://avatars.githubusercontent.com/u/13942773?s=72&u=252721ccf4cf48792c7b999193cec2a5cf7ed10b&v=4" width="24" alt="Avatar of bilalbentoumi"> bilalbentoumi
 			</a><br/>
@@ -5708,7 +5721,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/Majidbouikken">
 				<img src="https://avatars.githubusercontent.com/u/42124832?s=72&u=deae9ede437ae80bd8a29257d8fe39912364e83d&v=4" width="24" alt="Avatar of Majidbouikken"> Majidbouikken
@@ -5721,7 +5734,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/HakimMaz">
 				<img src="https://avatars.githubusercontent.com/u/51025124?s=72&u=2e9635b752628f23b5c61f48d7a2ac2e4f6d4985&v=4" width="24" alt="Avatar of HakimMaz"> HakimMaz
@@ -5734,7 +5747,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/AminaMOUDJAR">
 				<img src="https://avatars.githubusercontent.com/u/93347529?s=72&u=2af90d1c281ffadab4d0d983d246995457dd89ae&v=4" width="24" alt="Avatar of AminaMOUDJAR"> AminaMOUDJAR
@@ -5747,7 +5760,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/ilyasbelfar">
 				<img src="https://avatars.githubusercontent.com/u/61812764?s=72&u=c174d8572759b07f2535b058d1a1a1b6f09f1d68&v=4" width="24" alt="Avatar of ilyasbelfar"> ilyasbelfar
@@ -5760,7 +5773,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/Youxise">
 				<img src="https://avatars.githubusercontent.com/u/95051755?s=72&u=17435d2c417e8a315f1d1ffb67b90900ca1b0e31&v=4" width="24" alt="Avatar of Youxise"> Youxise
@@ -5773,7 +5786,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/Astromium">
 				<img src="https://avatars.githubusercontent.com/u/47673551?s=72&u=56089a9b1ab1b3a07231e1ae542ecec9af42df79&v=4" width="24" alt="Avatar of Astromium"> Astromium
@@ -5783,19 +5796,6 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
-			<a href="https://github.com/Abdelaziz18003">
-				<img src="https://avatars.githubusercontent.com/u/11301627?s=72&u=92a522bfeb3328cfd30566eb546fc63c9080e2b6&v=4" width="24" alt="Avatar of Abdelaziz18003"> Abdelaziz18003
-			</a><br/>
-			Abdelaziz Mokhnache
-		</td>
-		<td>Pawgo </td>
-		<td><a href="https://twitter.com/abdelaziz18003">abdelaziz18003</a></td>
-		<td>Jijel, Algeria</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -7530,6 +7530,19 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 	<tr>
 		<td>572</td>
 		<td>
+			<a href="https://github.com/adelabdelli">
+				<img src="https://avatars.githubusercontent.com/u/15655871?s=72&u=8bcd3825b5fdbcd67f592ffa2383fa125cd77446&v=4" width="24" alt="Avatar of adelabdelli"> adelabdelli
+			</a><br/>
+			Adel Abdelli
+		</td>
+		<td>University Of Biskra </td>
+		<td>No Twitter Username</td>
+		<td>Biskra Algeria</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>573</td>
+		<td>
 			<a href="https://github.com/djouamaah">
 				<img src="https://avatars.githubusercontent.com/u/15096704?s=72&u=f418e3afaa2b83604db75e264734ff4d70a13a9b&v=4" width="24" alt="Avatar of djouamaah"> djouamaah
 			</a><br/>
@@ -7541,7 +7554,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/alaa9985">
 				<img src="https://avatars.githubusercontent.com/u/17353463?s=72&u=4a82b7f6432bc1f49ce99773a4773ad4fac097d8&v=4" width="24" alt="Avatar of alaa9985"> alaa9985
@@ -7554,7 +7567,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/AttalliAyoub">
 				<img src="https://avatars.githubusercontent.com/u/41020025?s=72&u=741ebfa5a399eb156034b21037cc8746a4acce09&v=4" width="24" alt="Avatar of AttalliAyoub"> AttalliAyoub
@@ -7567,7 +7580,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/sucodz">
 				<img src="https://avatars.githubusercontent.com/u/93832597?s=72&u=3a5462707c5681352c8162b1cb010fc3ab8e1e77&v=4" width="24" alt="Avatar of sucodz"> sucodz
@@ -7580,7 +7593,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/benounnas">
 				<img src="https://avatars.githubusercontent.com/u/18370323?s=72&u=4b49e17e18471ad672afef4b0b12efc6299ae12e&v=4" width="24" alt="Avatar of benounnas"> benounnas
@@ -7593,7 +7606,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/amine-ziad-ounnoughene">
 				<img src="https://avatars.githubusercontent.com/u/86957029?s=72&u=54be120d5671750b15d4af83d9f8bf2a4e074d04&v=4" width="24" alt="Avatar of amine-ziad-ounnoughene"> amine-ziad-ounnoughene
@@ -7606,7 +7619,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/Elghazali-99">
 				<img src="https://avatars.githubusercontent.com/u/60848443?s=72&u=f388a5aa87a854919dea7727c180f2aa1798bef1&v=4" width="24" alt="Avatar of Elghazali-99"> Elghazali-99
@@ -7619,7 +7632,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/Adel-Qusay">
 				<img src="https://avatars.githubusercontent.com/u/21024188?s=72&u=b6e9b67e8c7f57627b14d63d9d1651254896ba35&v=4" width="24" alt="Avatar of Adel-Qusay"> Adel-Qusay
@@ -7632,7 +7645,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/sadji-zigadi">
 				<img src="https://avatars.githubusercontent.com/u/74831066?s=72&u=c3f15386193ded792c68f92fd1b7e5ff433d0318&v=4" width="24" alt="Avatar of sadji-zigadi"> sadji-zigadi
@@ -7645,7 +7658,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/bsrCh3rif07">
 				<img src="https://avatars.githubusercontent.com/u/65354249?s=72&u=c27e5ceb68eec4be31a62755fd88d76ec20bf621&v=4" width="24" alt="Avatar of bsrCh3rif07"> bsrCh3rif07
@@ -7658,7 +7671,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/TarekArar">
 				<img src="https://avatars.githubusercontent.com/u/36131347?s=72&u=6ee207afd34c2b4f03cd71736aae53ec5ac020c0&v=4" width="24" alt="Avatar of TarekArar"> TarekArar
@@ -7671,7 +7684,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/xprogramer">
 				<img src="https://avatars.githubusercontent.com/u/14372865?s=72&u=d0ee7db1930df9704bfabab0c0d5c444af620739&v=4" width="24" alt="Avatar of xprogramer"> xprogramer
@@ -7684,7 +7697,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/kiakahaDZ">
 				<img src="https://avatars.githubusercontent.com/u/46278484?s=72&u=7877ceb9880c30b6d8173afea9e6f6ea597e6402&v=4" width="24" alt="Avatar of kiakahaDZ"> kiakahaDZ
@@ -7697,7 +7710,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/Aissaoui-Ahmed">
 				<img src="https://avatars.githubusercontent.com/u/20658625?s=72&u=ba167f4efaf6f4207c99bbaf906aac655c1e8c9a&v=4" width="24" alt="Avatar of Aissaoui-Ahmed"> Aissaoui-Ahmed
@@ -7710,7 +7723,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/malikDaCoda">
 				<img src="https://avatars.githubusercontent.com/u/57254707?s=72&u=7bc6d82b83c9f675679f296a17e2ac8e5bba90b9&v=4" width="24" alt="Avatar of malikDaCoda"> malikDaCoda
@@ -7723,7 +7736,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/SakhriHoussem">
 				<img src="https://avatars.githubusercontent.com/u/16634831?s=72&u=8b18ca8c5312fd1fb3c7bea67bb5b130e57e226d&v=4" width="24" alt="Avatar of SakhriHoussem"> SakhriHoussem
@@ -7736,7 +7749,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/Alilougt">
 				<img src="https://avatars.githubusercontent.com/u/47328719?s=72&u=665d2c31d731ab9979223d9d7c0c6f98e8be9f36&v=4" width="24" alt="Avatar of Alilougt"> Alilougt
@@ -7749,7 +7762,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/MehdiCHEBBAH">
 				<img src="https://avatars.githubusercontent.com/u/35768991?s=72&u=ff2a918a43509a1735473d798c61633e4262a8e0&v=4" width="24" alt="Avatar of MehdiCHEBBAH"> MehdiCHEBBAH
@@ -7762,7 +7775,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/deGhost">
 				<img src="https://avatars.githubusercontent.com/u/28934708?s=72&u=3e28a45ca64ceeab259534ff28eccb2150ee93b4&v=4" width="24" alt="Avatar of deGhost"> deGhost
@@ -7775,7 +7788,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/FokshaWasTaken">
 				<img src="https://avatars.githubusercontent.com/u/55259471?s=72&u=51bbfe76114b98fd25ade833deaad3fad4a61b8f&v=4" width="24" alt="Avatar of FokshaWasTaken"> FokshaWasTaken
@@ -7788,7 +7801,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/Ghiles1010">
 				<img src="https://avatars.githubusercontent.com/u/54049249?s=72&u=a03054d6eae51854ba8f5413676024923224ed7b&v=4" width="24" alt="Avatar of Ghiles1010"> Ghiles1010
@@ -7801,7 +7814,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/Tahateber95">
 				<img src="https://avatars.githubusercontent.com/u/38567078?s=72&u=9cba44594446b45b725934253fbafc484d5da3eb&v=4" width="24" alt="Avatar of Tahateber95"> Tahateber95
@@ -7814,7 +7827,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/Faycall1l">
 				<img src="https://avatars.githubusercontent.com/u/109438920?s=72&u=52590620e34f817db1040e18b522dc37387a48e0&v=4" width="24" alt="Avatar of Faycall1l"> Faycall1l
@@ -7827,7 +7840,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/aissaserrar">
 				<img src="https://avatars.githubusercontent.com/u/34770779?s=72&u=7e1a955d4b183a2046ae80ac20e07871e4aa5ce9&v=4" width="24" alt="Avatar of aissaserrar"> aissaserrar
@@ -7840,7 +7853,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/smahi">
 				<img src="https://avatars.githubusercontent.com/u/1782133?s=72&u=dbe5f827eab1382c5d1351a243914ef51565e292&v=4" width="24" alt="Avatar of smahi"> smahi
@@ -7853,7 +7866,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/shetouane">
 				<img src="https://avatars.githubusercontent.com/u/16285874?s=72&u=41a3b764077f3437f41390d7941c2aa61fd16bd1&v=4" width="24" alt="Avatar of shetouane"> shetouane
@@ -7866,7 +7879,7 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/itssarah">
 				<img src="https://avatars.githubusercontent.com/u/43419795?s=72&u=077f16bc503b451add78a16344c125f27d946fb2&v=4" width="24" alt="Avatar of itssarah"> itssarah
@@ -7876,19 +7889,6 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Algiers</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>599</td>
-		<td>
-			<a href="https://github.com/adelabdelli">
-				<img src="https://avatars.githubusercontent.com/u/15655871?s=72&u=8bcd3825b5fdbcd67f592ffa2383fa125cd77446&v=4" width="24" alt="Avatar of adelabdelli"> adelabdelli
-			</a><br/>
-			Adel Abdelli
-		</td>
-		<td>University Of Biskra </td>
-		<td>No Twitter Username</td>
-		<td>Biskra Algeria</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -8466,19 +8466,6 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 	<tr>
 		<td>644</td>
 		<td>
-			<a href="https://github.com/Fethi-Hamdani">
-				<img src="https://avatars.githubusercontent.com/u/37482884?s=72&u=1bbddb2f82133f3bd52237d35220b20b64e869dd&v=4" width="24" alt="Avatar of Fethi-Hamdani"> Fethi-Hamdani
-			</a><br/>
-			Fethi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Fethi93989812">Fethi93989812</a></td>
-		<td>Algeria</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>645</td>
-		<td>
 			<a href="https://github.com/bouzidseyf">
 				<img src="https://avatars.githubusercontent.com/u/39460468?s=72&v=4" width="24" alt="Avatar of bouzidseyf"> bouzidseyf
 			</a><br/>
@@ -8486,6 +8473,19 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		</td>
 		<td>Growist Technologies </td>
 		<td><a href="https://twitter.com/BzSeyfeddine">BzSeyfeddine</a></td>
+		<td>Algeria</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
+			<a href="https://github.com/Fethi-Hamdani">
+				<img src="https://avatars.githubusercontent.com/u/37482884?s=72&u=1bbddb2f82133f3bd52237d35220b20b64e869dd&v=4" width="24" alt="Avatar of Fethi-Hamdani"> Fethi-Hamdani
+			</a><br/>
+			Fethi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Fethi93989812">Fethi93989812</a></td>
 		<td>Algeria</td>
 		<td>4</td>
 	</tr>
@@ -8570,19 +8570,6 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 	<tr>
 		<td>652</td>
 		<td>
-			<a href="https://github.com/MessadiSaidAbdesslem">
-				<img src="https://avatars.githubusercontent.com/u/59362802?s=72&u=f65989fd694dc5d9cad0981b19f34b270f947f2c&v=4" width="24" alt="Avatar of MessadiSaidAbdesslem"> MessadiSaidAbdesslem
-			</a><br/>
-			MessadiSaidAbdesslem
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/said_abdesslem">said_abdesslem</a></td>
-		<td>Algeria</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>653</td>
-		<td>
 			<a href="https://github.com/abdelghanyMh">
 				<img src="https://avatars.githubusercontent.com/u/33175196?s=72&u=a3224f5fd4822543e4e8326e57e93aaf6834c936&v=4" width="24" alt="Avatar of abdelghanyMh"> abdelghanyMh
 			</a><br/>
@@ -8590,6 +8577,19 @@ There are `972 users`  in Algeria. You need at least `10 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/abdelghanyMh1">abdelghanyMh1</a></td>
+		<td>Algeria</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>653</td>
+		<td>
+			<a href="https://github.com/MessadiSaidAbdesslem">
+				<img src="https://avatars.githubusercontent.com/u/59362802?s=72&u=f65989fd694dc5d9cad0981b19f34b270f947f2c&v=4" width="24" alt="Avatar of MessadiSaidAbdesslem"> MessadiSaidAbdesslem
+			</a><br/>
+			MessadiSaidAbdesslem
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/said_abdesslem">said_abdesslem</a></td>
 		<td>Algeria</td>
 		<td>4</td>
 	</tr>
