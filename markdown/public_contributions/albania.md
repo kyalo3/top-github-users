@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" alt="Albania">
 </a>
 
-The `public contributions` by users in Albania on `2024/3/5 1:46 AM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
+The `public contributions` by users in Albania on `2024/3/5 10:16 AM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
@@ -128,7 +128,7 @@ There are `914 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Holberton Albania </td>
 		<td>No Twitter Username</td>
 		<td>Albania</td>
-		<td>1440</td>
+		<td>1445</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -687,7 +687,7 @@ There are `914 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Tarmac </td>
 		<td><a href="https://twitter.com/MAL4E">MAL4E</a></td>
 		<td>Tirane, Albania</td>
-		<td>188</td>
+		<td>189</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -770,6 +770,19 @@ There are `914 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>52</td>
 		<td>
+			<a href="https://github.com/BetimBeja">
+				<img src="https://avatars.githubusercontent.com/u/11160171?s=72&u=b90556136c915d545eb2cc97fde8d3486f9a802a&v=4" width="24" alt="Avatar of BetimBeja"> BetimBeja
+			</a><br/>
+			Betim Beja
+		</td>
+		<td>Shko Online </td>
+		<td><a href="https://twitter.com/betimbeja">betimbeja</a></td>
+		<td>Tirana</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
 			<a href="https://github.com/kjahaj">
 				<img src="https://avatars.githubusercontent.com/u/119012791?s=72&u=f4f6ecca45eecc88731ac8f26f49db10847e1618&v=4" width="24" alt="Avatar of kjahaj"> kjahaj
 			</a><br/>
@@ -779,19 +792,6 @@ There are `914 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania.</td>
 		<td>155</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
-			<a href="https://github.com/BetimBeja">
-				<img src="https://avatars.githubusercontent.com/u/11160171?s=72&u=b90556136c915d545eb2cc97fde8d3486f9a802a&v=4" width="24" alt="Avatar of BetimBeja"> BetimBeja
-			</a><br/>
-			Betim Beja
-		</td>
-		<td>Shko Online </td>
-		<td><a href="https://twitter.com/betimbeja">betimbeja</a></td>
-		<td>Tirana</td>
-		<td>154</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -822,6 +822,19 @@ There are `914 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>56</td>
 		<td>
+			<a href="https://github.com/sidorelauku">
+				<img src="https://avatars.githubusercontent.com/u/24439184?s=72&u=201e802855ea204f7493e603d2baaae07c578202&v=4" width="24" alt="Avatar of sidorelauku"> sidorelauku
+			</a><br/>
+			Sidorela Uku
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tirana, Albania</td>
+		<td>150</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
 			<a href="https://github.com/ramadanigeri">
 				<img src="https://avatars.githubusercontent.com/u/59540202?s=72&v=4" width="24" alt="Avatar of ramadanigeri"> ramadanigeri
 			</a><br/>
@@ -831,19 +844,6 @@ There are `914 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>150</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/sidorelauku">
-				<img src="https://avatars.githubusercontent.com/u/24439184?s=72&u=201e802855ea204f7493e603d2baaae07c578202&v=4" width="24" alt="Avatar of sidorelauku"> sidorelauku
-			</a><br/>
-			Sidorela Uku
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>147</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -999,7 +999,7 @@ There are `914 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Topnotch Programmer </td>
 		<td><a href="https://twitter.com/redian_marku">redian_marku</a></td>
 		<td>Albania</td>
-		<td>111</td>
+		<td>114</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1441,7 +1441,7 @@ There are `914 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Ragetech </td>
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
-		<td>72</td>
+		<td>73</td>
 	</tr>
 	<tr>
 		<td>104</td>
