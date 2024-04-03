@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg" alt="Afghanistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Afghanistan on `2024/4/2 9:14 PM UTC`. This list contains users from `Afghanistan` and cities `Kabul` `Kandahar` `Herat` `Kunduz` `Lashkargah` `Ghazni` `Khost` `Zaranj`.
+The `public contributions` and `private contributions` by users in Afghanistan on `2024/4/3 6:18 AM UTC`. This list contains users from `Afghanistan` and cities `Kabul` `Kandahar` `Herat` `Kunduz` `Lashkargah` `Ghazni` `Khost` `Zaranj`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
@@ -144,8 +144,8 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/MastooraJ22">MastooraJ22</a></td>
 		<td>Kabul, Afghanistan</td>
-		<td>6089</td>
-		<td>6089</td>
+		<td>6117</td>
+		<td>6117</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ZainabTurkmen">ZainabTurkmen</a></td>
 		<td>Kabul Afghanistan</td>
-		<td>5761</td>
-		<td>5761</td>
+		<td>5803</td>
+		<td>5803</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -186,8 +186,8 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>@softwareship-io </td>
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
-		<td>1343</td>
-		<td>4448</td>
+		<td>1347</td>
+		<td>4452</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -271,7 +271,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
 		<td>11</td>
-		<td>3115</td>
+		<td>3118</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -327,7 +327,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
 		<td>0</td>
-		<td>2837</td>
+		<td>2840</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -859,7 +859,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Afghanistan</td>
 		<td>81</td>
-		<td>1420</td>
+		<td>1422</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -915,7 +915,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
 		<td>26</td>
-		<td>1296</td>
+		<td>1299</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -1027,7 +1027,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kabul,Afghanistan</td>
 		<td>0</td>
-		<td>1123</td>
+		<td>1128</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1068,8 +1068,8 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/TheEhsanSarshar">TheEhsanSarshar</a></td>
 		<td>Afghanistan ( Remote )</td>
-		<td>640</td>
-		<td>1067</td>
+		<td>642</td>
+		<td>1069</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1265,7 +1265,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kabul</td>
 		<td>0</td>
-		<td>918</td>
+		<td>919</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1363,7 +1363,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Afghanistan</td>
 		<td>0</td>
-		<td>855</td>
+		<td>858</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1685,7 +1685,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
 		<td>40</td>
-		<td>640</td>
+		<td>647</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -1741,7 +1741,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
 		<td>334</td>
-		<td>608</td>
+		<td>612</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -1838,8 +1838,8 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kabul</td>
-		<td>295</td>
-		<td>546</td>
+		<td>297</td>
+		<td>548</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -2026,6 +2026,20 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 	<tr>
 		<td>138</td>
 		<td>
+			<a href="https://github.com/sanam453">
+				<img src="https://avatars.githubusercontent.com/u/55902046?s=72&u=96fd7988a08cb11452b325bef528a7ebac37eb53&v=4" width="24" alt="Avatar of sanam453"> sanam453
+			</a><br/>
+			Sanam Hamza
+		</td>
+		<td>@decipheron </td>
+		<td><a href="https://twitter.com/SanamHamza2">SanamHamza2</a></td>
+		<td>kabul, Afghanistan</td>
+		<td>18</td>
+		<td>480</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
 			<a href="https://github.com/sadaf-Daneshgar">
 				<img src="https://avatars.githubusercontent.com/u/124706141?s=72&u=9555f762a07f38163dc10fe84f107dbcdd951291&v=4" width="24" alt="Avatar of sadaf-Daneshgar"> sadaf-Daneshgar
 			</a><br/>
@@ -2038,7 +2052,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>480</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/raziq-quraishi">
 				<img src="https://avatars.githubusercontent.com/u/99569578?s=72&u=f3910aac20a360358d3f7f2faa03b977d78d8b0e&v=4" width="24" alt="Avatar of raziq-quraishi"> raziq-quraishi
@@ -2050,20 +2064,6 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>Afghanistan</td>
 		<td>7</td>
 		<td>479</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/sanam453">
-				<img src="https://avatars.githubusercontent.com/u/55902046?s=72&u=96fd7988a08cb11452b325bef528a7ebac37eb53&v=4" width="24" alt="Avatar of sanam453"> sanam453
-			</a><br/>
-			Sanam Hamza
-		</td>
-		<td>@decipheron </td>
-		<td><a href="https://twitter.com/SanamHamza2">SanamHamza2</a></td>
-		<td>kabul, Afghanistan</td>
-		<td>18</td>
-		<td>475</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -2544,6 +2544,20 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 	<tr>
 		<td>175</td>
 		<td>
+			<a href="https://github.com/kingmammad">
+				<img src="https://avatars.githubusercontent.com/u/62317202?s=72&u=ff72825bf627ba27737c51dbff55c34bead53177&v=4" width="24" alt="Avatar of kingmammad"> kingmammad
+			</a><br/>
+			Mohammad
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kingmammad0">kingmammad0</a></td>
+		<td>Afghanistan</td>
+		<td>87</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
 			<a href="https://github.com/MaisamNajafi">
 				<img src="https://avatars.githubusercontent.com/u/101691546?s=72&u=8cf2e9cc8246610287dbe8b4bbf9ddbd27dab27b&v=4" width="24" alt="Avatar of MaisamNajafi"> MaisamNajafi
 			</a><br/>
@@ -2554,20 +2568,6 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>Kabul, Afghanistan</td>
 		<td>11</td>
 		<td>299</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/kingmammad">
-				<img src="https://avatars.githubusercontent.com/u/62317202?s=72&u=ff72825bf627ba27737c51dbff55c34bead53177&v=4" width="24" alt="Avatar of kingmammad"> kingmammad
-			</a><br/>
-			Mohammad
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kingmammad0">kingmammad0</a></td>
-		<td>Afghanistan</td>
-		<td>87</td>
-		<td>296</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -2763,7 +2763,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td><a href="https://twitter.com/MatiKarimi">MatiKarimi</a></td>
 		<td>Kabul, Afghanistan</td>
 		<td>76</td>
-		<td>236</td>
+		<td>238</td>
 	</tr>
 	<tr>
 		<td>191</td>
@@ -2950,6 +2950,20 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 	<tr>
 		<td>204</td>
 		<td>
+			<a href="https://github.com/najibkr">
+				<img src="https://avatars.githubusercontent.com/u/59522872?s=72&u=f7e5ad780a476148576593dfce54f1d01afe4fae&v=4" width="24" alt="Avatar of najibkr"> najibkr
+			</a><br/>
+			Najibullah Khoda Rahim
+		</td>
+		<td>Laams - Tech Company<br/>Based<br/>In<br/>Kabul,<br/>Afghanistan<br/></td>
+		<td><a href="https://twitter.com/najibkhodarahim">najibkhodarahim</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>61</td>
+		<td>199</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
 			<a href="https://github.com/abdulsaboorhemat1500">
 				<img src="https://avatars.githubusercontent.com/u/103122094?s=72&u=505974739fe5549cfcfd1d8e4fcfd42244576949&v=4" width="24" alt="Avatar of abdulsaboorhemat1500"> abdulsaboorhemat1500
 			</a><br/>
@@ -2962,7 +2976,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>199</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/Archisio">
 				<img src="https://avatars.githubusercontent.com/u/3201950?s=72&u=027ee8a0ce5a2782dc5a4c00812fe61d76fb116c&v=4" width="24" alt="Avatar of Archisio"> Archisio
@@ -2976,7 +2990,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>195</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/MustafaSamiShirzad">
 				<img src="https://avatars.githubusercontent.com/u/104809541?s=72&u=9f9ab24b7ff0f03ca6771e222eeb9e6856d806e9&v=4" width="24" alt="Avatar of MustafaSamiShirzad"> MustafaSamiShirzad
@@ -2988,20 +3002,6 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>kabul, Afghanistan</td>
 		<td>195</td>
 		<td>195</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/najibkr">
-				<img src="https://avatars.githubusercontent.com/u/59522872?s=72&u=f7e5ad780a476148576593dfce54f1d01afe4fae&v=4" width="24" alt="Avatar of najibkr"> najibkr
-			</a><br/>
-			Najibullah Khoda Rahim
-		</td>
-		<td>Laams - Tech Company<br/>Based<br/>In<br/>Kabul,<br/>Afghanistan<br/></td>
-		<td><a href="https://twitter.com/najibkhodarahim">najibkhodarahim</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>54</td>
-		<td>192</td>
 	</tr>
 	<tr>
 		<td>208</td>
@@ -3230,6 +3230,20 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 	<tr>
 		<td>224</td>
 		<td>
+			<a href="https://github.com/esmatullah-hassani">
+				<img src="https://avatars.githubusercontent.com/u/48239098?s=72&u=0f8a1ff6c863456188e6064337f5255993058543&v=4" width="24" alt="Avatar of esmatullah-hassani"> esmatullah-hassani
+			</a><br/>
+			Esmatullah Hassani
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/esmatullah1395">esmatullah1395</a></td>
+		<td>Afghanistan</td>
+		<td>14</td>
+		<td>143</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
 			<a href="https://github.com/HLS706">
 				<img src="https://avatars.githubusercontent.com/u/118651197?s=72&u=e2e732bd05620113ef268d1d0d9623fe158ae28c&v=4" width="24" alt="Avatar of HLS706"> HLS706
 			</a><br/>
@@ -3242,7 +3256,7 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/MurtazaHoshmand">
 				<img src="https://avatars.githubusercontent.com/u/145467980?s=72&u=c96944dda7590b9a2d4f164f120e676aaa474715&v=4" width="24" alt="Avatar of MurtazaHoshmand"> MurtazaHoshmand
@@ -3254,20 +3268,6 @@ There are `894 users`  in Afghanistan. You need at least `1 followers` to be on 
 		<td>karte-4,kabul,Afghanistan</td>
 		<td>39</td>
 		<td>141</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
-			<a href="https://github.com/esmatullah-hassani">
-				<img src="https://avatars.githubusercontent.com/u/48239098?s=72&u=0f8a1ff6c863456188e6064337f5255993058543&v=4" width="24" alt="Avatar of esmatullah-hassani"> esmatullah-hassani
-			</a><br/>
-			Esmatullah Hassani
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/esmatullah1395">esmatullah1395</a></td>
-		<td>Afghanistan</td>
-		<td>14</td>
-		<td>139</td>
 	</tr>
 	<tr>
 		<td>227</td>
