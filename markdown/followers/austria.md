@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria">
 </a>
 
-The `number of followers` of users in Austria on `2024/4/5 8:18 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
+The `number of followers` of users in Austria on `2024/4/6 5:16 AM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
@@ -115,7 +115,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>Sentry </td>
 		<td><a href="https://twitter.com/mitsuhiko">mitsuhiko</a></td>
 		<td>Austria</td>
-		<td>21051</td>
+		<td>21050</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>Neuralnine </td>
 		<td><a href="https://twitter.com/NeuralNine">NeuralNine</a></td>
 		<td>Vienna, Austria</td>
-		<td>7523</td>
+		<td>7526</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/desandro">desandro</a></td>
 		<td>Vienna, VA</td>
-		<td>5845</td>
+		<td>5846</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -206,7 +206,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>Ceo At @margelo </td>
 		<td><a href="https://twitter.com/mrousavy">mrousavy</a></td>
 		<td>Vienna, Austria</td>
-		<td>3594</td>
+		<td>3593</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -401,7 +401,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>Software Architects </td>
 		<td><a href="https://twitter.com/rstropek">rstropek</a></td>
 		<td>Austria</td>
-		<td>969</td>
+		<td>970</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -440,7 +440,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>H2o.ai </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
-		<td>917</td>
+		<td>918</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -505,7 +505,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
-		<td>777</td>
+		<td>778</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -596,7 +596,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kleiton0x7e">kleiton0x7e</a></td>
 		<td>Austria</td>
-		<td>661</td>
+		<td>662</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -1142,7 +1142,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>@aulaeducation  </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
-		<td>372</td>
+		<td>373</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1667,6 +1667,19 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 	<tr>
 		<td>121</td>
 		<td>
+			<a href="https://github.com/phax">
+				<img src="https://avatars.githubusercontent.com/u/196219?s=72&v=4" width="24" alt="Avatar of phax"> phax
+			</a><br/>
+			Philip Helger
+		</td>
+		<td>Philip Helger </td>
+		<td>No Twitter Username</td>
+		<td>Vienna, Austria</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
 			<a href="https://github.com/4ad">
 				<img src="https://avatars.githubusercontent.com/u/1331747?s=72&u=f05f115851e9ee976235dd9ac606eb67830b606c&v=4" width="24" alt="Avatar of 4ad"> 4ad
 			</a><br/>
@@ -1678,7 +1691,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>257</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/ahmgeek">
 				<img src="https://avatars.githubusercontent.com/u/4132009?s=72&u=9c4cc57f76690aa7ab613b707d49b335aee95853&v=4" width="24" alt="Avatar of ahmgeek"> ahmgeek
@@ -1689,19 +1702,6 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td><a href="https://twitter.com/ahyield">ahyield</a></td>
 		<td>Vienna, Austria</td>
 		<td>257</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/phax">
-				<img src="https://avatars.githubusercontent.com/u/196219?s=72&v=4" width="24" alt="Avatar of phax"> phax
-			</a><br/>
-			Philip Helger
-		</td>
-		<td>Philip Helger </td>
-		<td>No Twitter Username</td>
-		<td>Vienna, Austria</td>
-		<td>256</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -1779,7 +1779,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
-		<td>244</td>
+		<td>245</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -2273,7 +2273,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>Cybertec </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
-		<td>187</td>
+		<td>188</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -3227,6 +3227,19 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 	<tr>
 		<td>241</td>
 		<td>
+			<a href="https://github.com/andreasklinger">
+				<img src="https://avatars.githubusercontent.com/u/245833?s=72&u=5c9e3c14973c39f70c980621da061a71572a984b&v=4" width="24" alt="Avatar of andreasklinger"> andreasklinger
+			</a><br/>
+			Andreas Klinger
+		</td>
+		<td>Product Hunt </td>
+		<td>No Twitter Username</td>
+		<td>Vienna</td>
+		<td>141</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
 			<a href="https://github.com/snusnu">
 				<img src="https://avatars.githubusercontent.com/u/1186?s=72&v=4" width="24" alt="Avatar of snusnu"> snusnu
 			</a><br/>
@@ -3238,7 +3251,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/bkolobara">
 				<img src="https://avatars.githubusercontent.com/u/593393?s=72&u=ae8417196cb6e80821519f22cf6127f1a8e142dc&v=4" width="24" alt="Avatar of bkolobara"> bkolobara
@@ -3251,7 +3264,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/clairexen">
 				<img src="https://avatars.githubusercontent.com/u/59544343?s=72&u=2c6020514e03a2fa53a10f7092dac85419c3cf1f&v=4" width="24" alt="Avatar of clairexen"> clairexen
@@ -3260,19 +3273,6 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		</td>
 		<td>@yosyshq  </td>
 		<td><a href="https://twitter.com/oe1cxw">oe1cxw</a></td>
-		<td>Vienna</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>244</td>
-		<td>
-			<a href="https://github.com/andreasklinger">
-				<img src="https://avatars.githubusercontent.com/u/245833?s=72&u=5c9e3c14973c39f70c980621da061a71572a984b&v=4" width="24" alt="Avatar of andreasklinger"> andreasklinger
-			</a><br/>
-			Andreas Klinger
-		</td>
-		<td>Product Hunt </td>
-		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>140</td>
 	</tr>
@@ -4176,19 +4176,6 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 	<tr>
 		<td>314</td>
 		<td>
-			<a href="https://github.com/nenadmarinkovic">
-				<img src="https://avatars.githubusercontent.com/u/26521003?s=72&u=bbe2c9e144c4445e9bb0295662b692a4567ca7d1&v=4" width="24" alt="Avatar of nenadmarinkovic"> nenadmarinkovic
-			</a><br/>
-			Nenad Marinković
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vienna, Austria</td>
-		<td>114</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
 			<a href="https://github.com/davidmann4">
 				<img src="https://avatars.githubusercontent.com/u/1736570?s=72&u=c4e4e280e9b6702d4ce7dda795c9492c01ed664e&v=4" width="24" alt="Avatar of davidmann4"> davidmann4
 			</a><br/>
@@ -4200,7 +4187,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/Black-Seraph">
 				<img src="https://avatars.githubusercontent.com/u/34379814?s=72&v=4" width="24" alt="Avatar of Black-Seraph"> Black-Seraph
@@ -4213,7 +4200,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/mreram">
 				<img src="https://avatars.githubusercontent.com/u/11220808?s=72&u=fc6f99b5af3b891b5fbc2495aebbec47e9bff7af&v=4" width="24" alt="Avatar of mreram"> mreram
@@ -4226,7 +4213,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/zewa666">
 				<img src="https://avatars.githubusercontent.com/u/2861414?s=72&u=e08cb45f3af5abef19b3e26ea194ab4c79412e4d&v=4" width="24" alt="Avatar of zewa666"> zewa666
@@ -4239,7 +4226,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/html6405">
 				<img src="https://avatars.githubusercontent.com/u/38076522?s=72&v=4" width="24" alt="Avatar of html6405"> html6405
@@ -4250,6 +4237,19 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>114</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a href="https://github.com/nenadmarinkovic">
+				<img src="https://avatars.githubusercontent.com/u/26521003?s=72&u=bbe2c9e144c4445e9bb0295662b692a4567ca7d1&v=4" width="24" alt="Avatar of nenadmarinkovic"> nenadmarinkovic
+			</a><br/>
+			Nenad Marinković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vienna, Austria</td>
+		<td>113</td>
 	</tr>
 	<tr>
 		<td>320</td>
@@ -4371,6 +4371,19 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 	<tr>
 		<td>329</td>
 		<td>
+			<a href="https://github.com/thet">
+				<img src="https://avatars.githubusercontent.com/u/170891?s=72&u=88aa5511387bac9fe15851252696fb878f47a8b3&v=4" width="24" alt="Avatar of thet"> thet
+			</a><br/>
+			Johannes Raggam
+		</td>
+		<td>Syslab.com, Bluedynamics Alliance </td>
+		<td>No Twitter Username</td>
+		<td>Graz, Austria</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
 			<a href="https://github.com/arpu">
 				<img src="https://avatars.githubusercontent.com/u/14173?s=72&u=65d6cf6b0fb39a41f5ed98bf090336c066c229a5&v=4" width="24" alt="Avatar of arpu"> arpu
 			</a><br/>
@@ -4380,19 +4393,6 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>1170 Vienna</td>
 		<td>110</td>
-	</tr>
-	<tr>
-		<td>330</td>
-		<td>
-			<a href="https://github.com/thet">
-				<img src="https://avatars.githubusercontent.com/u/170891?s=72&u=88aa5511387bac9fe15851252696fb878f47a8b3&v=4" width="24" alt="Avatar of thet"> thet
-			</a><br/>
-			Johannes Raggam
-		</td>
-		<td>Syslab.com, Bluedynamics Alliance </td>
-		<td>No Twitter Username</td>
-		<td>Graz, Austria</td>
-		<td>109</td>
 	</tr>
 	<tr>
 		<td>331</td>
@@ -6841,6 +6841,19 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 	<tr>
 		<td>519</td>
 		<td>
+			<a href="https://github.com/fr3ts0n">
+				<img src="https://avatars.githubusercontent.com/u/2822578?s=72&u=62270e3a813c067828f2fa9fca06e90f12224099&v=4" width="24" alt="Avatar of fr3ts0n"> fr3ts0n
+			</a><br/>
+			Erwin Scheuch-Heilig
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Austria</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>
 			<a href="https://github.com/stefankoegl">
 				<img src="https://avatars.githubusercontent.com/u/184196?s=72&u=190816edca96a765963a89ceaa87e9c0bb9a656e&v=4" width="24" alt="Avatar of stefankoegl"> stefankoegl
 			</a><br/>
@@ -6852,7 +6865,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/luastoned">
 				<img src="https://avatars.githubusercontent.com/u/173158?s=72&v=4" width="24" alt="Avatar of luastoned"> luastoned
@@ -6865,7 +6878,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/olajep">
 				<img src="https://avatars.githubusercontent.com/u/794072?s=72&v=4" width="24" alt="Avatar of olajep"> olajep
@@ -6878,7 +6891,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/karlrupp">
 				<img src="https://avatars.githubusercontent.com/u/3027176?s=72&u=280a9e8e49757e5d2f41f0bf40492c4bd54eae27&v=4" width="24" alt="Avatar of karlrupp"> karlrupp
@@ -6891,7 +6904,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/chrysn">
 				<img src="https://avatars.githubusercontent.com/u/442326?s=72&v=4" width="24" alt="Avatar of chrysn"> chrysn
@@ -6904,7 +6917,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/olivier97">
 				<img src="https://avatars.githubusercontent.com/u/4777932?s=72&u=1115492851baf4805536b86948a16b80be2a0622&v=4" width="24" alt="Avatar of olivier97"> olivier97
@@ -6917,7 +6930,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/Oberon00">
 				<img src="https://avatars.githubusercontent.com/u/849039?s=72&u=b16e68bb27eba39f6969b3bc5db1651a84d8d9c0&v=4" width="24" alt="Avatar of Oberon00"> Oberon00
@@ -6930,7 +6943,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/jeremyfromearth">
 				<img src="https://avatars.githubusercontent.com/u/443048?s=72&u=1a50c1efbbf882aa7ac10262291c99ceac1e74e6&v=4" width="24" alt="Avatar of jeremyfromearth"> jeremyfromearth
@@ -6940,19 +6953,6 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>527</td>
-		<td>
-			<a href="https://github.com/fr3ts0n">
-				<img src="https://avatars.githubusercontent.com/u/2822578?s=72&u=62270e3a813c067828f2fa9fca06e90f12224099&v=4" width="24" alt="Avatar of fr3ts0n"> fr3ts0n
-			</a><br/>
-			Erwin Scheuch-Heilig
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Austria</td>
 		<td>72</td>
 	</tr>
 	<tr>
@@ -7998,6 +7998,19 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 	<tr>
 		<td>608</td>
 		<td>
+			<a href="https://github.com/bragin">
+				<img src="https://avatars.githubusercontent.com/u/1056142?s=72&u=1ce728b7804d52d5e458c705cab127d4517e2390&v=4" width="24" alt="Avatar of bragin"> bragin
+			</a><br/>
+			Aleksey Bragin
+		</td>
+		<td>Deepbit It Gmbh </td>
+		<td>No Twitter Username</td>
+		<td>Amstetten, Austria</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>609</td>
+		<td>
 			<a href="https://github.com/ripcurlx">
 				<img src="https://avatars.githubusercontent.com/u/170962?s=72&u=ec0ec7440afc4ceb037a4ac43eb6570bd2f33831&v=4" width="24" alt="Avatar of ripcurlx"> ripcurlx
 			</a><br/>
@@ -8009,7 +8022,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/artikrh">
 				<img src="https://avatars.githubusercontent.com/u/38540757?s=72&u=39e587fd169cf3d7c1c5635e60fda7549b8c7fd1&v=4" width="24" alt="Avatar of artikrh"> artikrh
@@ -8022,7 +8035,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/nickcernis">
 				<img src="https://avatars.githubusercontent.com/u/647669?s=72&u=27746913376de4a3f857fbcfa74f2d74471363a1&v=4" width="24" alt="Avatar of nickcernis"> nickcernis
@@ -8035,7 +8048,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/Gebes">
 				<img src="https://avatars.githubusercontent.com/u/35232234?s=72&u=be05b113ade24078b03f051f59db657dd13fd018&v=4" width="24" alt="Avatar of Gebes"> Gebes
@@ -8048,7 +8061,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/ionutbalosin">
 				<img src="https://avatars.githubusercontent.com/u/42312997?s=72&u=44c1fb367e8facc7b0e83994cc3d414c704ad4b5&v=4" width="24" alt="Avatar of ionutbalosin"> ionutbalosin
@@ -8061,7 +8074,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/HamedFathi">
 				<img src="https://avatars.githubusercontent.com/u/8418700?s=72&u=7c5a9e98c8272664132f0b50d021af789814aa15&v=4" width="24" alt="Avatar of HamedFathi"> HamedFathi
@@ -8074,7 +8087,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/oertl">
 				<img src="https://avatars.githubusercontent.com/u/9392465?s=72&u=601adf542266c59f1a84eecc96bb00342cec9ef5&v=4" width="24" alt="Avatar of oertl"> oertl
@@ -8087,7 +8100,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/motz0815">
 				<img src="https://avatars.githubusercontent.com/u/49114741?s=72&u=e71a697292e117e0ffbb70b868b8e4916713ece0&v=4" width="24" alt="Avatar of motz0815"> motz0815
@@ -8100,7 +8113,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/josefglatz">
 				<img src="https://avatars.githubusercontent.com/u/2861556?s=72&u=5be01eb6d372d959432c37931b0ef6e2bd45e605&v=4" width="24" alt="Avatar of josefglatz"> josefglatz
@@ -8113,7 +8126,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/hpgrahsl">
 				<img src="https://avatars.githubusercontent.com/u/7030308?s=72&u=5973ae6bb5ee371e09eccbb6a9957fb8d004b3c6&v=4" width="24" alt="Avatar of hpgrahsl"> hpgrahsl
@@ -8126,7 +8139,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/botic">
 				<img src="https://avatars.githubusercontent.com/u/193023?s=72&u=2eaa9dea5a82162d28110fbab93ea8641c32e361&v=4" width="24" alt="Avatar of botic"> botic
@@ -8136,19 +8149,6 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>@orfon  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>619</td>
-		<td>
-			<a href="https://github.com/bragin">
-				<img src="https://avatars.githubusercontent.com/u/1056142?s=72&u=1ce728b7804d52d5e458c705cab127d4517e2390&v=4" width="24" alt="Avatar of bragin"> bragin
-			</a><br/>
-			Aleksey Bragin
-		</td>
-		<td>Deepbit It Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Amstetten, Austria</td>
 		<td>63</td>
 	</tr>
 	<tr>
@@ -11391,6 +11391,19 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 	<tr>
 		<td>869</td>
 		<td>
+			<a href="https://github.com/ansibleguy">
+				<img src="https://avatars.githubusercontent.com/u/79044229?s=72&u=5318c52e40159394cdbd80ef2c05d962d0d08ee8&v=4" width="24" alt="Avatar of ansibleguy"> ansibleguy
+			</a><br/>
+			AnsibleGuy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Austria, Styria</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>870</td>
+		<td>
 			<a href="https://github.com/clemenshelm">
 				<img src="https://avatars.githubusercontent.com/u/141632?s=72&u=f7050951b6a9d0fa1496978c683f42f3d47addc2&v=4" width="24" alt="Avatar of clemenshelm"> clemenshelm
 			</a><br/>
@@ -11402,7 +11415,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>870</td>
+		<td>871</td>
 		<td>
 			<a href="https://github.com/johannesugb">
 				<img src="https://avatars.githubusercontent.com/u/536330?s=72&u=403db11169b99cc188b828d46150aeee2c444a65&v=4" width="24" alt="Avatar of johannesugb"> johannesugb
@@ -11415,7 +11428,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>871</td>
+		<td>872</td>
 		<td>
 			<a href="https://github.com/pforai">
 				<img src="https://avatars.githubusercontent.com/u/32458?s=72&u=d848a30ab69c747ca9c2e95aa3a1b56a58afa565&v=4" width="24" alt="Avatar of pforai"> pforai
@@ -11428,7 +11441,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>872</td>
+		<td>873</td>
 		<td>
 			<a href="https://github.com/dhth">
 				<img src="https://avatars.githubusercontent.com/u/13575379?s=72&u=168aa7a012b1d42a0273f4f33598615ff6c6bca5&v=4" width="24" alt="Avatar of dhth"> dhth
@@ -11441,7 +11454,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>873</td>
+		<td>874</td>
 		<td>
 			<a href="https://github.com/ingambe">
 				<img src="https://avatars.githubusercontent.com/u/17440405?s=72&u=92f8f3dcc35c97f376da3a7f411644f5ef5cbe44&v=4" width="24" alt="Avatar of ingambe"> ingambe
@@ -11454,7 +11467,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/rettetdemdativ">
 				<img src="https://avatars.githubusercontent.com/u/5265630?s=72&u=fb69753cbedf50b6a8735809d3868c08adc56fe4&v=4" width="24" alt="Avatar of rettetdemdativ"> rettetdemdativ
@@ -11467,7 +11480,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/Jotschi">
 				<img src="https://avatars.githubusercontent.com/u/326605?s=72&u=c87ec7f2b4cc8eb74a59a501cbc27c4d3f4b0556&v=4" width="24" alt="Avatar of Jotschi"> Jotschi
@@ -11480,7 +11493,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/widhalmt">
 				<img src="https://avatars.githubusercontent.com/u/504849?s=72&v=4" width="24" alt="Avatar of widhalmt"> widhalmt
@@ -11493,7 +11506,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/whisperingpixel">
 				<img src="https://avatars.githubusercontent.com/u/15889286?s=72&u=6738a59cd03446c94c0ca39e43d07bb0ec66242e&v=4" width="24" alt="Avatar of whisperingpixel"> whisperingpixel
@@ -11506,7 +11519,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/wizard23">
 				<img src="https://avatars.githubusercontent.com/u/1036516?s=72&v=4" width="24" alt="Avatar of wizard23"> wizard23
@@ -11519,7 +11532,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/cmoestl">
 				<img src="https://avatars.githubusercontent.com/u/14162616?s=72&u=61608ea9de0dd472e186e212536013ba061bd208&v=4" width="24" alt="Avatar of cmoestl"> cmoestl
@@ -11532,7 +11545,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>881</td>
 		<td>
 			<a href="https://github.com/qu0b">
 				<img src="https://avatars.githubusercontent.com/u/22667037?s=72&u=5eb1ba653b66c609bbbe266cfde3253fd32232ee&v=4" width="24" alt="Avatar of qu0b"> qu0b
@@ -11545,7 +11558,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/TheLevti">
 				<img src="https://avatars.githubusercontent.com/u/7612582?s=72&u=428a73d5c71f59da744bcb4931177d53f9494f65&v=4" width="24" alt="Avatar of TheLevti"> TheLevti
@@ -11558,7 +11571,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>883</td>
 		<td>
 			<a href="https://github.com/luki">
 				<img src="https://avatars.githubusercontent.com/u/15147703?s=72&u=a2f7c974b94c25ccc4c31f18bcdc21e3962f0794&v=4" width="24" alt="Avatar of luki"> luki
@@ -11571,7 +11584,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>884</td>
 		<td>
 			<a href="https://github.com/notti">
 				<img src="https://avatars.githubusercontent.com/u/25723?s=72&v=4" width="24" alt="Avatar of notti"> notti
@@ -11584,7 +11597,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/myhalici">
 				<img src="https://avatars.githubusercontent.com/u/8976637?s=72&u=f820a4bf061715cabecee2f5b1d9c41a4e00e1de&v=4" width="24" alt="Avatar of myhalici"> myhalici
@@ -11597,7 +11610,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/saligerdo">
 				<img src="https://avatars.githubusercontent.com/u/4883116?s=72&u=c39d3f6960715898d12879b5d496d148f7c6541d&v=4" width="24" alt="Avatar of saligerdo"> saligerdo
@@ -11610,7 +11623,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/DavitKhach">
 				<img src="https://avatars.githubusercontent.com/u/41106465?s=72&u=aab47156fd62aa6d5fbf438f6a690cc7c8fbaae9&v=4" width="24" alt="Avatar of DavitKhach"> DavitKhach
@@ -11623,7 +11636,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>888</td>
 		<td>
 			<a href="https://github.com/cwalter-at">
 				<img src="https://avatars.githubusercontent.com/u/43271235?s=72&u=d3a756f1bb7f00cde400171b92a14435197240d7&v=4" width="24" alt="Avatar of cwalter-at"> cwalter-at
@@ -11636,7 +11649,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>889</td>
 		<td>
 			<a href="https://github.com/burgholzer">
 				<img src="https://avatars.githubusercontent.com/u/6358767?s=72&v=4" width="24" alt="Avatar of burgholzer"> burgholzer
@@ -11649,7 +11662,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>890</td>
 		<td>
 			<a href="https://github.com/elahmo">
 				<img src="https://avatars.githubusercontent.com/u/852433?s=72&v=4" width="24" alt="Avatar of elahmo"> elahmo
@@ -11659,19 +11672,6 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>890</td>
-		<td>
-			<a href="https://github.com/ansibleguy">
-				<img src="https://avatars.githubusercontent.com/u/79044229?s=72&u=5318c52e40159394cdbd80ef2c05d962d0d08ee8&v=4" width="24" alt="Avatar of ansibleguy"> ansibleguy
-			</a><br/>
-			AnsibleGuy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Austria, Styria</td>
 		<td>43</td>
 	</tr>
 	<tr>
@@ -11755,19 +11755,6 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 	<tr>
 		<td>897</td>
 		<td>
-			<a href="https://github.com/hannestschofenig">
-				<img src="https://avatars.githubusercontent.com/u/1016643?s=72&u=3129d0c04615457b8456cfe0258e0f0e4edcdb2d&v=4" width="24" alt="Avatar of hannestschofenig"> hannestschofenig
-			</a><br/>
-			Hannes Tschofenig
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tyrol, Austria</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>898</td>
-		<td>
 			<a href="https://github.com/foolnotion">
 				<img src="https://avatars.githubusercontent.com/u/844222?s=72&u=b2a59c99aec3e291cb395f0dcc579e59118fc150&v=4" width="24" alt="Avatar of foolnotion"> foolnotion
 			</a><br/>
@@ -11779,7 +11766,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>898</td>
 		<td>
 			<a href="https://github.com/MauriceNino">
 				<img src="https://avatars.githubusercontent.com/u/18658092?s=72&u=4d54217dd386eb3b2aa52a9d0d2e70b0d0b26b32&v=4" width="24" alt="Avatar of MauriceNino"> MauriceNino
@@ -11792,7 +11779,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/rubenspessoa">
 				<img src="https://avatars.githubusercontent.com/u/3586658?s=72&u=72438d87d9c3e3ee561af818e7f8946f84c28164&v=4" width="24" alt="Avatar of rubenspessoa"> rubenspessoa
@@ -11805,7 +11792,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/nbelyh">
 				<img src="https://avatars.githubusercontent.com/u/528366?s=72&u=549f201c524eea047da3160a694ee6610decbaab&v=4" width="24" alt="Avatar of nbelyh"> nbelyh
@@ -11818,7 +11805,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/manfred-kaiser">
 				<img src="https://avatars.githubusercontent.com/u/37737811?s=72&u=ffda49167bf9b81ce1f782066bcd4e16ea08e61e&v=4" width="24" alt="Avatar of manfred-kaiser"> manfred-kaiser
@@ -11831,7 +11818,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/paulcpk">
 				<img src="https://avatars.githubusercontent.com/u/6603014?s=72&u=4b3a58a2b5b29c5c50ef5d340bc06ec8982bec01&v=4" width="24" alt="Avatar of paulcpk"> paulcpk
@@ -11844,7 +11831,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/gcsalzburg">
 				<img src="https://avatars.githubusercontent.com/u/32631912?s=72&u=0e2f558b26c35d010bb36f5b5ee786a0b6f41783&v=4" width="24" alt="Avatar of gcsalzburg"> gcsalzburg
@@ -11857,7 +11844,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/drallgood">
 				<img src="https://avatars.githubusercontent.com/u/127142?s=72&v=4" width="24" alt="Avatar of drallgood"> drallgood
@@ -11870,7 +11857,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/thasmo">
 				<img src="https://avatars.githubusercontent.com/u/184284?s=72&u=532ce13ebbb41111e1715b489dd9b02daafecbe7&v=4" width="24" alt="Avatar of thasmo"> thasmo
@@ -11883,7 +11870,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/mslabina">
 				<img src="https://avatars.githubusercontent.com/u/18137023?s=72&u=43fbdc0eb263c69e3f28898a5eccaab70d76328d&v=4" width="24" alt="Avatar of mslabina"> mslabina
@@ -11896,7 +11883,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/ameingast">
 				<img src="https://avatars.githubusercontent.com/u/11305?s=72&v=4" width="24" alt="Avatar of ameingast"> ameingast
@@ -11909,7 +11896,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/t-neumann">
 				<img src="https://avatars.githubusercontent.com/u/17272623?s=72&u=0bfb49bb750a04e01aa097f909078e521a161e96&v=4" width="24" alt="Avatar of t-neumann"> t-neumann
@@ -11922,7 +11909,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/philres">
 				<img src="https://avatars.githubusercontent.com/u/2323996?s=72&u=e63df90d8e15de4c0078d3325aaeba017156e224&v=4" width="24" alt="Avatar of philres"> philres
@@ -11935,7 +11922,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/fabsta">
 				<img src="https://avatars.githubusercontent.com/u/1134157?s=72&v=4" width="24" alt="Avatar of fabsta"> fabsta
@@ -11948,7 +11935,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/mainerror">
 				<img src="https://avatars.githubusercontent.com/u/48783?s=72&u=48e2f29d5f18d9007644fcfde62c31e157bd5e93&v=4" width="24" alt="Avatar of mainerror"> mainerror
@@ -11961,7 +11948,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/ma-ag">
 				<img src="https://avatars.githubusercontent.com/u/39134142?s=72&u=b3aeb8fc9a99fc2aad0f04213b1f584f0e809523&v=4" width="24" alt="Avatar of ma-ag"> ma-ag
@@ -11974,7 +11961,7 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/CandidDeer">
 				<img src="https://avatars.githubusercontent.com/u/107346172?s=72&u=5c389903dac921f5be691da977e9f18e68db46e9&v=4" width="24" alt="Avatar of CandidDeer"> CandidDeer
@@ -11984,6 +11971,19 @@ There are `955 users`  in Austria. You need at least `41 followers` to be on thi
 		<td>Lam Research Ag </td>
 		<td><a href="https://twitter.com/CandidDeer">CandidDeer</a></td>
 		<td>Feldkirchen, Austria, Europe</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>914</td>
+		<td>
+			<a href="https://github.com/hannestschofenig">
+				<img src="https://avatars.githubusercontent.com/u/1016643?s=72&u=3129d0c04615457b8456cfe0258e0f0e4edcdb2d&v=4" width="24" alt="Avatar of hannestschofenig"> hannestschofenig
+			</a><br/>
+			Hannes Tschofenig
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tyrol, Austria</td>
 		<td>42</td>
 	</tr>
 	<tr>
