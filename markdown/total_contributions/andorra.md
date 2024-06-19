@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2024/6/18 10:11 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2024/6/19 7:11 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
@@ -215,7 +215,7 @@ There are `343 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra / Barcelona</td>
 		<td>0</td>
-		<td>1279</td>
+		<td>1283</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -1018,6 +1018,20 @@ There are `343 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>66</td>
 		<td>
+			<a href="https://github.com/GPradaT">
+				<img src="https://avatars.githubusercontent.com/u/134978329?s=72&u=32e7b4384c603e2facc977065f8bf925296ac91c&v=4" width="24" alt="Avatar of GPradaT"> GPradaT
+			</a><br/>
+			Guillem Prada Torres
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>48</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
 			<a href="https://github.com/aseques">
 				<img src="https://avatars.githubusercontent.com/u/555542?s=72&v=4" width="24" alt="Avatar of aseques"> aseques
 			</a><br/>
@@ -1028,20 +1042,6 @@ There are `343 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>47</td>
 		<td>47</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/GPradaT">
-				<img src="https://avatars.githubusercontent.com/u/134978329?s=72&u=32e7b4384c603e2facc977065f8bf925296ac91c&v=4" width="24" alt="Avatar of GPradaT"> GPradaT
-			</a><br/>
-			Guillem Prada Torres
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>46</td>
-		<td>46</td>
 	</tr>
 	<tr>
 		<td>68</td>
