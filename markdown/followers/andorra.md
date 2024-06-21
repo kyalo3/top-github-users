@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/6/21 4:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/6/21 1:13 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
-There are `343 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `344 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `343 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Astral Technologies </td>
 		<td><a href="https://twitter.com/AlexAltea">AlexAltea</a></td>
 		<td>Les Escaldes, Andorra</td>
-		<td>883</td>
+		<td>884</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -913,12 +913,12 @@ There are `343 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>63</td>
 		<td>
-			<a href="https://github.com/joanbono-bf">
-				<img src="https://avatars.githubusercontent.com/u/61155548?s=72&u=d529f2d1c5835c3310f659982374684e71db3486&v=4" width="24" alt="Avatar of joanbono-bf"> joanbono-bf
+			<a href="https://github.com/cmarfil">
+				<img src="https://avatars.githubusercontent.com/u/798849?s=72&v=4" width="24" alt="Avatar of cmarfil"> cmarfil
 			</a><br/>
-			Joan Bono
+			Cristian Marfil
 		</td>
-		<td>@bishopfox </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>9</td>
@@ -926,12 +926,12 @@ There are `343 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>64</td>
 		<td>
-			<a href="https://github.com/cmarfil">
-				<img src="https://avatars.githubusercontent.com/u/798849?s=72&v=4" width="24" alt="Avatar of cmarfil"> cmarfil
+			<a href="https://github.com/joanbono-bf">
+				<img src="https://avatars.githubusercontent.com/u/61155548?s=72&u=d529f2d1c5835c3310f659982374684e71db3486&v=4" width="24" alt="Avatar of joanbono-bf"> joanbono-bf
 			</a><br/>
-			Cristian Marfil
+			Joan Bono
 		</td>
-		<td>No Company</td>
+		<td>@bishopfox </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>9</td>
