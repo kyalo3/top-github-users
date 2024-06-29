@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" alt="Albania">
 </a>
 
-The `public contributions` by users in Albania on `2024/6/28 11:16 PM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
+The `public contributions` by users in Albania on `2024/6/29 8:18 AM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
@@ -549,6 +549,19 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>35</td>
 		<td>
+			<a href="https://github.com/AnXh3L0">
+				<img src="https://avatars.githubusercontent.com/u/25004151?s=72&u=01491136fe0b0dc9c85b0414016d328957f84aa9&v=4" width="24" alt="Avatar of AnXh3L0"> AnXh3L0
+			</a><br/>
+			Anxhelo Lushka
+		</td>
+		<td>@uradotdesign </td>
+		<td><a href="https://twitter.com/anxhelolushka">anxhelolushka</a></td>
+		<td>Tirana, Albania</td>
+		<td>258</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
 			<a href="https://github.com/malforsaja">
 				<img src="https://avatars.githubusercontent.com/u/20798247?s=72&u=3ed1166547abad87554347afd746335f7bbbfc89&v=4" width="24" alt="Avatar of malforsaja"> malforsaja
 			</a><br/>
@@ -558,19 +571,6 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/MAL4E">MAL4E</a></td>
 		<td>Tirane, Albania</td>
 		<td>255</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/AnXh3L0">
-				<img src="https://avatars.githubusercontent.com/u/25004151?s=72&u=01491136fe0b0dc9c85b0414016d328957f84aa9&v=4" width="24" alt="Avatar of AnXh3L0"> AnXh3L0
-			</a><br/>
-			Anxhelo Lushka
-		</td>
-		<td>@uradotdesign </td>
-		<td><a href="https://twitter.com/anxhelolushka">anxhelolushka</a></td>
-		<td>Tirana, Albania</td>
-		<td>254</td>
 	</tr>
 	<tr>
 		<td>37</td>
