@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/7/1 6:15 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/7/2 3:13 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
@@ -1823,19 +1823,6 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>133</td>
 		<td>
-			<a href="https://github.com/erikconk">
-				<img src="https://avatars.githubusercontent.com/u/66536345?s=72&u=ef31ff844f706ca5a06887849f4346d305b57513&v=4" width="24" alt="Avatar of erikconk"> erikconk
-			</a><br/>
-			Erik
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
 			<a href="https://github.com/GuillaumeDgr">
 				<img src="https://avatars.githubusercontent.com/u/29545767?s=72&u=11b3a8912012991c56d7888daade1785971d8659&v=4" width="24" alt="Avatar of GuillaumeDgr"> GuillaumeDgr
 			</a><br/>
@@ -1847,7 +1834,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/EdKenbers">
 				<img src="https://avatars.githubusercontent.com/u/7468461?s=72&u=c0704f406e66673973bce20cc2572568665fc42e&v=4" width="24" alt="Avatar of EdKenbers"> EdKenbers
@@ -1856,6 +1843,19 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/EdKenbers">EdKenbers</a></td>
+		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/polmoya">
+				<img src="https://avatars.githubusercontent.com/u/24393088?s=72&u=0cb424839a0d6d23bb462e0affd564108f8fd245&v=4" width="24" alt="Avatar of polmoya"> polmoya
+			</a><br/>
+			Pol Moya Betriu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
 	</tr>
@@ -1875,10 +1875,10 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>137</td>
 		<td>
-			<a href="https://github.com/polmoya">
-				<img src="https://avatars.githubusercontent.com/u/24393088?s=72&u=0cb424839a0d6d23bb462e0affd564108f8fd245&v=4" width="24" alt="Avatar of polmoya"> polmoya
+			<a href="https://github.com/erikconk">
+				<img src="https://avatars.githubusercontent.com/u/66536345?s=72&u=ef31ff844f706ca5a06887849f4346d305b57513&v=4" width="24" alt="Avatar of erikconk"> erikconk
 			</a><br/>
-			Pol Moya Betriu
+			Erik
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
