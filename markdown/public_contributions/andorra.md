@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2024/7/13 2:32 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2024/7/13 11:10 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
@@ -154,7 +154,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@cosmos @01builders </td>
 		<td><a href="https://twitter.com/facundomedica">facundomedica</a></td>
 		<td>Andorra</td>
-		<td>654</td>
+		<td>655</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -401,7 +401,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Dumbytech </td>
 		<td><a href="https://twitter.com/carputw">carputw</a></td>
 		<td>Andorra</td>
-		<td>127</td>
+		<td>132</td>
 	</tr>
 	<tr>
 		<td>24</td>
