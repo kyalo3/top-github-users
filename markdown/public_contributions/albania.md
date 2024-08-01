@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" alt="Albania">
 </a>
 
-The `public contributions` by users in Albania on `2024/7/31 6:20 PM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
+The `public contributions` by users in Albania on `2024/8/1 4:18 AM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/kyalo3/top-github-users).
 
@@ -141,7 +141,7 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/al_genti">al_genti</a></td>
 		<td>Durres, Albania</td>
-		<td>2073</td>
+		<td>2079</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -627,6 +627,19 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/obrikoci">
+				<img src="https://avatars.githubusercontent.com/u/175162590?s=72&v=4" width="24" alt="Avatar of obrikoci"> obrikoci
+			</a><br/>
+			Obri Koci
+		</td>
+		<td>Canadian Institute Of Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tirana</td>
+		<td>198</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/domimario">
 				<img src="https://avatars.githubusercontent.com/u/99295625?s=72&u=c887d4357f85efc385db72b3f95bc6994d84d2f4&v=4" width="24" alt="Avatar of domimario"> domimario
 			</a><br/>
@@ -638,7 +651,7 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/gentjankolicaj">
 				<img src="https://avatars.githubusercontent.com/u/18643945?s=72&u=41b2d58a2ed0ca21a5dedc9f25cff60aba655141&v=4" width="24" alt="Avatar of gentjankolicaj"> gentjankolicaj
@@ -651,7 +664,7 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/ArsiHoxha">
 				<img src="https://avatars.githubusercontent.com/u/129588014?s=72&v=4" width="24" alt="Avatar of ArsiHoxha"> ArsiHoxha
@@ -662,19 +675,6 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Durres Albania</td>
 		<td>195</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/obrikoci">
-				<img src="https://avatars.githubusercontent.com/u/175162590?s=72&v=4" width="24" alt="Avatar of obrikoci"> obrikoci
-			</a><br/>
-			Obri Koci
-		</td>
-		<td>Canadian Institute Of Technology<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tirana</td>
-		<td>194</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -2395,6 +2395,19 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>177</td>
 		<td>
+			<a href="https://github.com/dion-pro">
+				<img src="https://avatars.githubusercontent.com/u/104863902?s=72&v=4" width="24" alt="Avatar of dion-pro"> dion-pro
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Albania</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
 			<a href="https://github.com/XhinoKurtaj">
 				<img src="https://avatars.githubusercontent.com/u/28669133?s=72&u=b970849d0bf9b2ccf158321aa337e54ddfa5c2e8&v=4" width="24" alt="Avatar of XhinoKurtaj"> XhinoKurtaj
 			</a><br/>
@@ -2406,7 +2419,7 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/Democles85">
 				<img src="https://avatars.githubusercontent.com/u/42782503?s=72&u=5dac890e3a2a80022bb526285c93dcf90ef23353&v=4" width="24" alt="Avatar of Democles85"> Democles85
@@ -2416,19 +2429,6 @@ There are `915 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Cd Projekt Red </td>
 		<td>No Twitter Username</td>
 		<td>Vlore, Albania</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/dion-pro">
-				<img src="https://avatars.githubusercontent.com/u/104863902?s=72&v=4" width="24" alt="Avatar of dion-pro"> dion-pro
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Albania</td>
 		<td>36</td>
 	</tr>
 	<tr>
